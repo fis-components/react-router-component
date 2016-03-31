@@ -1,7 +1,7 @@
 {
     "name": "react-router-component",
     "description": "Declarative router component for React",
-    "repos": "https://github.com/strml/react-router-component.git",
+    "repos": "https://github.com/strml/react-router-component",
     "main": "index.js",
     "tag": "master",
     "reposType": "npm",
@@ -13,5 +13,5 @@
         "react": ">=0.14.0 <0.15.0",
         "react-dom": ">=0.14.0 <0.15.0"
     },
-    "version": "0.31.3"
+    "version": "0.31.4"
 }
